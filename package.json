@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/elenaene/ProiectCloudComputing#readme",
   "dependencies": {
+    "@google-cloud/language": "^4.3.2",
+    "@google-cloud/translate": "^6.3.1",
+    "@sendgrid/mail": "^7.6.2",
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
